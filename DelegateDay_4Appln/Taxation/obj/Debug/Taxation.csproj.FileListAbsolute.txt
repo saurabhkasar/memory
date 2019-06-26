@@ -1,0 +1,26 @@
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\bin\Debug\Taxation.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\bin\Debug\Taxation.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\obj\Debug\Taxation.csproj.CoreCompileInputs.cache
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\obj\Debug\Taxation.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\obj\Debug\Taxation.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\bin\Debug\Banking.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\bin\Debug\Policiy.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\bin\Debug\Banking.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\bin\Debug\Policiy.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\obj\Debug\Taxation.csprojAssemblyReference.cache
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\obj\Debug\Taxation.csproj.CopyComplete
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\bin\Debug\Contract.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Taxation\bin\Debug\Contract.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\bin\Debug\Taxation.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\bin\Debug\Taxation.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\bin\Debug\Banking.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\bin\Debug\Contract.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\bin\Debug\Policiy.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\bin\Debug\Banking.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\bin\Debug\Contract.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\bin\Debug\Policiy.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\obj\Debug\Taxation.csprojAssemblyReference.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\obj\Debug\Taxation.csproj.CoreCompileInputs.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\obj\Debug\Taxation.csproj.CopyComplete
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\obj\Debug\Taxation.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Taxation\obj\Debug\Taxation.pdb

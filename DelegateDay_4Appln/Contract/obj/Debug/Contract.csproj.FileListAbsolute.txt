@@ -1,0 +1,12 @@
+F:\MC.NET Practical\DelegateDay_4Appln\Contract\obj\Debug\Contract.csprojAssemblyReference.cache
+F:\MC.NET Practical\DelegateDay_4Appln\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+F:\MC.NET Practical\DelegateDay_4Appln\Contract\bin\Debug\Contract.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Contract\bin\Debug\Contract.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Contract\obj\Debug\Contract.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Contract\obj\Debug\Contract.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Contract\bin\Debug\Contract.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Contract\bin\Debug\Contract.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Contract\obj\Debug\Contract.csprojAssemblyReference.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\Contract\obj\Debug\Contract.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Contract\obj\Debug\Contract.pdb

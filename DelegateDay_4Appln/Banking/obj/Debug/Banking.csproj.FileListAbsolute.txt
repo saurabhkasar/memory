@@ -1,0 +1,22 @@
+F:\MC.NET Practical\DelegateDay_4Appln\Banking\bin\Debug\Banking.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Banking\bin\Debug\Banking.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+F:\MC.NET Practical\DelegateDay_4Appln\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+F:\MC.NET Practical\DelegateDay_4Appln\Banking\obj\Debug\Banking.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Banking\obj\Debug\Banking.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Banking\bin\Debug\Policiy.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Banking\bin\Debug\Policiy.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Banking\obj\Debug\Banking.csproj.CopyComplete
+F:\MC.NET Practical\DelegateDay_4Appln\Banking\bin\Debug\Contract.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Banking\bin\Debug\Contract.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Banking\bin\Debug\Banking.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Banking\bin\Debug\Banking.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Banking\bin\Debug\Contract.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Banking\bin\Debug\Policiy.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Banking\bin\Debug\Contract.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Banking\bin\Debug\Policiy.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\Banking\obj\Debug\Banking.csproj.CopyComplete
+E:\New folder (2)\memory\DelegateDay_4Appln\Banking\obj\Debug\Banking.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Banking\obj\Debug\Banking.pdb

@@ -1,0 +1,18 @@
+F:\MC.NET Practical\DelegateDay_4Appln\Policiy\bin\Debug\Policiy.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Policiy\bin\Debug\Policiy.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Policiy\obj\Debug\Policiy.csprojAssemblyReference.cache
+F:\MC.NET Practical\DelegateDay_4Appln\Policiy\obj\Debug\Policiy.csproj.CoreCompileInputs.cache
+F:\MC.NET Practical\DelegateDay_4Appln\Policiy\obj\Debug\Policiy.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Policiy\obj\Debug\Policiy.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Policiy\bin\Debug\Contract.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Policiy\bin\Debug\Contract.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Policiy\obj\Debug\Policiy.csproj.CopyComplete
+E:\New folder (2)\memory\DelegateDay_4Appln\Policiy\bin\Debug\Policiy.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Policiy\bin\Debug\Policiy.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Policiy\bin\Debug\Contract.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Policiy\bin\Debug\Contract.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Policiy\obj\Debug\Policiy.csprojAssemblyReference.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\Policiy\obj\Debug\Policiy.csproj.CoreCompileInputs.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\Policiy\obj\Debug\Policiy.csproj.CopyComplete
+E:\New folder (2)\memory\DelegateDay_4Appln\Policiy\obj\Debug\Policiy.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Policiy\obj\Debug\Policiy.pdb

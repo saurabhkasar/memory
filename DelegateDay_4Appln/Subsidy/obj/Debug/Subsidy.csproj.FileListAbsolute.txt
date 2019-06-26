@@ -1,0 +1,18 @@
+F:\MC.NET Practical\DelegateDay_4Appln\Subsidy\bin\Debug\Subsidy.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Subsidy\bin\Debug\Subsidy.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Subsidy\obj\Debug\Subsidy.csprojAssemblyReference.cache
+F:\MC.NET Practical\DelegateDay_4Appln\Subsidy\obj\Debug\Subsidy.csproj.CoreCompileInputs.cache
+F:\MC.NET Practical\DelegateDay_4Appln\Subsidy\obj\Debug\Subsidy.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Subsidy\obj\Debug\Subsidy.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Subsidy\bin\Debug\Contract.dll
+F:\MC.NET Practical\DelegateDay_4Appln\Subsidy\bin\Debug\Contract.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\Subsidy\obj\Debug\Subsidy.csproj.CopyComplete
+E:\New folder (2)\memory\DelegateDay_4Appln\Subsidy\bin\Debug\Subsidy.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Subsidy\bin\Debug\Subsidy.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Subsidy\bin\Debug\Contract.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Subsidy\bin\Debug\Contract.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\Subsidy\obj\Debug\Subsidy.csprojAssemblyReference.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\Subsidy\obj\Debug\Subsidy.csproj.CoreCompileInputs.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\Subsidy\obj\Debug\Subsidy.csproj.CopyComplete
+E:\New folder (2)\memory\DelegateDay_4Appln\Subsidy\obj\Debug\Subsidy.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\Subsidy\obj\Debug\Subsidy.pdb

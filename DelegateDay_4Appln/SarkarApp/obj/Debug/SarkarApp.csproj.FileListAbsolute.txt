@@ -1,0 +1,42 @@
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\SarkarApp.exe.config
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\SarkarApp.exe
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\SarkarApp.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.csprojAssemblyReference.cache
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.Properties.Resources.resources
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.csproj.GenerateResource.cache
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.csproj.CoreCompileInputs.cache
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.exe
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\Banking.dll
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\Policiy.dll
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\Subsidy.dll
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\Taxation.dll
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\Banking.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\Policiy.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\Subsidy.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\Taxation.pdb
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.csproj.CopyComplete
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.lblTaxMsg.resources
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\Contract.dll
+F:\MC.NET Practical\DelegateDay_4Appln\SarkarApp\bin\Debug\Contract.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\SarkarApp.exe.config
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\SarkarApp.exe
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\SarkarApp.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\Banking.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\Contract.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\Policiy.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\Subsidy.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\Taxation.dll
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\Banking.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\Contract.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\Policiy.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\Subsidy.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\bin\Debug\Taxation.pdb
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.csprojAssemblyReference.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.lblTaxMsg.resources
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.Properties.Resources.resources
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.csproj.GenerateResource.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.csproj.CoreCompileInputs.cache
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.csproj.CopyComplete
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.exe
+E:\New folder (2)\memory\DelegateDay_4Appln\SarkarApp\obj\Debug\SarkarApp.pdb
